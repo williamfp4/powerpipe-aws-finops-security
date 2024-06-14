@@ -1,0 +1,7 @@
+# Ignore set variables for Steampipe/Powerpipe
+*.ppvars
+
+# Ignore mod folders, config and cache
+*.json
+*.powerpipe
+*.so
