@@ -97,6 +97,9 @@ The dashboard provides a comprehensive view of:
 - **Cost Savings**: Detailed analysis of potential cost savings in your AWS environment.
 - **Security Best Practices**: Identification of security best practices and potential areas for improvement.
 
+You will find the Dashboard under the name of **Powerpipe - AWS FinOps & Security**:
+<br>
+<img title="Dashboard" alt="FinOps+Security" src="preview.png">
 
 ## Contributing
 
