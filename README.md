@@ -83,8 +83,10 @@
 4. Run Powerpipe to generate the dashboard:
    
    ```bash
-   powerpipe server --mod-location <project-folder-path>
+   powerpipe server --mod-location .
    ```
+   > **Ensure that you are in the project's directory
+   
    
 6. Open your browser and navigate to the URL provided by Powerpipe to view the dashboard.
 
