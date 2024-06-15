@@ -43,8 +43,9 @@
 
 4. Install Powerpipe:
 
-   Follow the instructions on the [Powerpipe GitHub page](https://powerpipe.io/downloads) to install Powerpipe.
-   > **You only need to follow steps 1 and 2. Use the project folder to initialize powerpipe as shown in the [Usage](#usage) section.**
+   Follow the instructions on the [Powerpipe download page](https://powerpipe.io/downloads) to install Powerpipe.
+   > **You only need to follow steps 1 and 2. <br>
+   > Use the project folder to initialize powerpipe as shown in the [Usage](#usage) section.**
 
 5. Set up your AWS credentials:
 
