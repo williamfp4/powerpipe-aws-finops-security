@@ -85,7 +85,7 @@
    ```bash
    powerpipe server --mod-location .
    ```
-   > **Ensure that you are in the project's directory
+   > **Ensure that you are in the project's directory**
    
    
 6. Open your browser and navigate to the URL provided by Powerpipe to view the dashboard.
