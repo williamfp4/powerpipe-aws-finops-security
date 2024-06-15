@@ -70,7 +70,6 @@
 1. Initialize all needed mods by running:
    
    ```bash
-   powerpipe mod init
    powerpipe mod install github.com/turbot/steampipe-mod-aws-perimeter
    powerpipe mod install github.com/turbot/steampipe-mod-aws-thrifty
    ```
